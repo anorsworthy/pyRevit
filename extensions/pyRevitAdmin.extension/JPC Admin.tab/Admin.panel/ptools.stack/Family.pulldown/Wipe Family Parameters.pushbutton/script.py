@@ -1,6 +1,8 @@
 """This script removes all custom parameters that has not been used
 in dimensions as labels and also resets the value for the other
 parameters to zero or null."""
+#TODO setup family .yaml config template to import for batch processing family files
+
 #pylint: disable=import-error,invalid-name,broad-except
 from pyrevit import revit, DB
 from pyrevit import script
