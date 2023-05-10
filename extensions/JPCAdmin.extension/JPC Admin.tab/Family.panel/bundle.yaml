@@ -12,8 +12,8 @@ layout:
   - Export Family Config
   - Import Family Config
   - -----
-  - Wipe Family Parameters
-  - -----
   - Load Families
   - Save Families
   - Load More Types
+  - -----
+  - Wipe Family Parameters

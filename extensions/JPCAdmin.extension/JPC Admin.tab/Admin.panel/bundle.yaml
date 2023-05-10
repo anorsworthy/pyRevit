@@ -1,5 +1,6 @@
 layout:
   - Preflight Checks
-  - ptools2
-  - ptools
+  - Get RVT Info
+  - Get Central Path
+  - Team
   - Wipe

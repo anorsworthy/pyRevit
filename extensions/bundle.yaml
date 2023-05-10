@@ -1,7 +1,7 @@
 layout:
-    -JPCCore
-    -JPCTools
-    -JPCAdmin
+    - JPCCore
+    - JPCTools
+    - JPCAdmin
 
 templates:
     author: Ehsan Iran-Nejad
