@@ -3,7 +3,7 @@ title:
   fr_fr: Famille
   en_us: Family
 layout:
-  - Family QuickCheck[title:Family\QuickCheck]
+  - Family QuickCheck[title:Family\nQuickCheck]
   - -----
   - Load
   - -----
@@ -13,4 +13,4 @@ layout:
   - -----
   - Config
   - -----
-  - Wipe Family Parameters[title:Wipe\Family\Parameters]
+  - Wipe Family Parameters[title:Wipe\nFamily\nParameters]
