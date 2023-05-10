@@ -5,7 +5,7 @@ title:
 tooltip:
   ru: Выясните, кто внес конкретные изменения в модель.
   fr_fr: Trouver qui a fait un changement spécifique dans le modèle.
-  en_us: Track changes in the model to specific individual
+  en_us: Trace model changes back to their author
 author: >-
     Frederic Beaupere
     
