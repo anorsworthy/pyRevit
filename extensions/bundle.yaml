@@ -1,0 +1,8 @@
+layout:
+    -JPCCore
+    -JPCTools
+    -JPCAdmin
+
+templates:
+    author: Ehsan Iran-Nejad
+    edited: Antonio G Norsworthy
