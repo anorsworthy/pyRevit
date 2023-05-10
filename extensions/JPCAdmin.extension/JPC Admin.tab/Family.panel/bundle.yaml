@@ -3,17 +3,14 @@ title:
   fr_fr: Famille
   en_us: Family
 layout:
-  - Family QuickCheck
+  - Family QuickCheck[title:Family\QuickCheck]
   - -----
-  - Convert ACIS Solid to FreeForm
-  - Convert Family To Face Host Based
-  - Convert Imported 3D CAD
+  - Load
   - -----
-  - Export Family Config
-  - Import Family Config
+  - Save Families[title:Save\Families]
   - -----
-  - Load Families
-  - Save Families
-  - Load More Types
+  - Convert
   - -----
-  - Wipe Family Parameters
+  - Config
+  - -----
+  - Wipe Family Parameters[title:Wipe\Family\Parameters]
