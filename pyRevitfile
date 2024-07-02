@@ -46,9 +46,7 @@ corex = ['bin',
          'pyRevitfile']
 base = ['bin',
         'extensions/pyRevitCore.extension',
-        'extensions/pyRevitTags.extension',
         'extensions/pyRevitTools.extension',
-        'extensions/extensions.json',
         'pyrevitlib',
         'site-packages',
         'pyRevitfile']

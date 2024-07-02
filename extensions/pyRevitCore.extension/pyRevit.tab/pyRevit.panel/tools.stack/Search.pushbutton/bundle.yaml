@@ -1,12 +1,5 @@
 tooltip:
-  ru: Самый лучший интерфейс!
   en_us: The best interface ever!
 title:
-  ru: Поиск
   en_us: 'Search'
-  fa: 'جستجو'
-  bg: 'Търси'
-  nl_nl: 'Zoek'
-  fr_fr: 'Rechercher'
-  de_de: 'Suche'
 context: zero-doc
